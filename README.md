@@ -1,4 +1,7 @@
 # php-study
+XAMPPをインストールしてPHPとMariaDB(MySQL)が使えるようにする
+https://qiita.com/hitotch/items/fe70fc2992746fafab54
+
 XAMPPでMySQLを起動しようとStartをクリックした際にエラーが出力された時の対処法
 https://qiita.com/nananari/items/66df067499a0e80e1036
 
