@@ -2,6 +2,9 @@
 Xamppでポート競合を防ぐ方法
 https://qiita.com/neneta0921/items/3c2f9ac8ea9b5bcfc6e6
 
+ポート番号が使用されていないか確認する
+https://www.javadrive.jp/xampp/install/index5.html
+
 XAMPPの使い方
 https://www.javadrive.jp/xampp/install/index3.html
 
