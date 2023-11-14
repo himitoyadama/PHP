@@ -1,4 +1,7 @@
 # php-study
+PHPを勉強する時、最初に見る動画【PHP/XAMPP/環境構築方法】
+https://m.youtube.com/watch?v=xzZncm6MX8U
+
 XAMPPをインストールしてPHPとMariaDB(MySQL)が使えるようにする
 https://qiita.com/hitotch/items/fe70fc2992746fafab54
 
