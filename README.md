@@ -1,4 +1,8 @@
 # php-study
+
+PHP MySQLアプリ制作
+https://www.youtube.com/playlist?list=PLoFgufO-380XVfIDtEHnWSzDEamR16n-6
+
 PHPを勉強する時、最初に見る動画【PHP/XAMPP/環境構築方法】
 https://m.youtube.com/watch?v=xzZncm6MX8U
 
