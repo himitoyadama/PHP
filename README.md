@@ -1,4 +1,6 @@
 # php-study
+45分でPHPの環境構築からポートフォリオまでこれ一本
+https://m.youtube.com/watch?v=1XEMVdeTFAk
 
 PHP MySQLアプリ制作
 https://www.youtube.com/playlist?list=PLoFgufO-380XVfIDtEHnWSzDEamR16n-6
