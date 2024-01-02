@@ -1,4 +1,7 @@
 # php-study
+【PHP入門】2ちゃんねる風掲示板を作りながら学ぶPHP入門講座 ~XAMPPを利用~
+https://m.youtube.com/watch?v=3QxtIrakwKk
+
 45分でPHPの環境構築からポートフォリオまでこれ一本
 https://m.youtube.com/watch?v=1XEMVdeTFAk
 
