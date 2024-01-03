@@ -1,4 +1,7 @@
 # php-study
+スーパーグローバル
+https://www.php.net/manual/ja/language.variables.superglobals.php
+
 【PHP入門】2ちゃんねる風掲示板を作りながら学ぶPHP入門講座 ~XAMPPを利用~
 https://m.youtube.com/watch?v=3QxtIrakwKk
 
